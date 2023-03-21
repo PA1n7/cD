@@ -32,4 +32,4 @@ var change = window.setInterval(()=>{
     if (currPic == imgs.length){
         currPic= 0;
     }
-}, 2000)
+}, 10000)
