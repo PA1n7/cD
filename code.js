@@ -20,7 +20,7 @@ if(mobile){
 
 var loop = window.setInterval(()=>{
     currDate = new Date();
-    endDate = new Date("April 3, 2023 06:30");
+    endDate = new Date("August 13, 2023 10:00");
 
     sub = new Date(endDate-currDate)
     if (!mobile){
